@@ -1,3 +1,5 @@
+// @author Soren Caraan
+
 import java.util.Scanner;
 
 public class javaCalculator {

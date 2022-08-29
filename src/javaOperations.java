@@ -1,3 +1,4 @@
+//@author Soren Caraan
 public class javaOperations {
 
     public javaOperations() {}
